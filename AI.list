@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 
+#https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo-lite/geosite/openai.list
+
 browser-intake-datadoghq.com
 chat.openai.com.cdn.cloudflare.net
 gemini.google.com
