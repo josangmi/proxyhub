@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,alacritty.org
 DOMAIN-SUFFIX,bypassai.ai
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,www.gitbook.io
-
+DOMAIN-SUFFIX,cloudflare.com
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
