@@ -27,6 +27,11 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,langchain.com
+DOMAIN-SUFFIX,langchain.dev
+
+
+
 
 #https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo-lite/geosite/openai.list
 
