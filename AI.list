@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,langchain.com
 DOMAIN-SUFFIX,langchain.dev
-DOMAIN-SUFFIX,x.ai
++.x.ai
 
 
 
