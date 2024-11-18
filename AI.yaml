@@ -31,6 +31,7 @@ payload:
 - DOMAIN-SUFFIX,langchain.com
 - DOMAIN-SUFFIX,langchain.dev
 - DOMAIN-SUFFIX,x.ai
+- DOMAIN-SUFFIX,codeium.com
 
 # Additional Rules
 - DOMAIN,browser-intake-datadoghq.com
