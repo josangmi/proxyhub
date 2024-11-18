@@ -5,6 +5,7 @@ payload:
 - DOMAIN-KEYWORD,openai
 - DOMAIN-KEYWORD,anthropic
 - DOMAIN-KEYWORD,Claude
+- DOMAIN-KEYWORD,codeium
 
 # DOMAIN-SUFFIX rules
 - DOMAIN-SUFFIX,perplexity.ai
