@@ -1,6 +1,11 @@
 # 代理补充列表
 
 payload:
+
+  # DOMAIN-KEYWORD
+
+  - DOMAIN-KEYWORD,1e100racknerd
+
   # DOMAIN-SUFFIX rules
   - DOMAIN-SUFFIX,fridayflashfiction.com
   - DOMAIN-SUFFIX,zed.dev
