@@ -4,7 +4,7 @@ payload:
 
   # DOMAIN-KEYWORD
 
-  - DOMAIN-KEYWORD,1e100racknerd
+  - DOMAIN-KEYWORD,racknerd
 
   # DOMAIN-SUFFIX rules
   - DOMAIN-SUFFIX,fridayflashfiction.com
