@@ -21,6 +21,8 @@ payload:
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,xnxx.com
+  - DOMAIN-SUFFIX,dyxq.cc
+  - DOMAIN-SUFFIX,boju.cc
 
   # IP-CIDR rules
   - IP-CIDR,8.8.8.8/32,no-resolve
