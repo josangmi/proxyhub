@@ -71,7 +71,7 @@ payload:
 - DOMAIN-SUFFIX,turn.livekit.cloud
 - DOMAIN,o33249.ingest.sentry.io
 - DOMAIN-SUFFIX,openai.com
-- DOMAIN-SUFFIX,sora.com
+- DOMAIN-SUFFIX,sora.com #20241210
 
 # IP address
 - IP-CIDR,24.199.123.28/32
