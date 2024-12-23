@@ -1,0 +1,11 @@
+
+# 直连补充列表
+
+payload:
+
+  # DOMAIN-KEYWORD
+
+  # - DOMAIN-KEYWORD,racknerd
+
+  # DOMAIN-SUFFIX rules
+  - DOMAIN-SUFFIX,aitonic.us.kg

@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,fiverr.com
   - DOMAIN-SUFFIX,theten.ai
+  
 # 国外DNS
   # - DOMAIN-SUFFIX,dns.google
   # - DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
