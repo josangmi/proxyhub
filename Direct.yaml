@@ -5,7 +5,7 @@ payload:
 
   # DOMAIN-KEYWORD
 
-  # - DOMAIN-KEYWORD,racknerd
+  - DOMAIN-KEYWORD,aitonic
 
   # DOMAIN-SUFFIX rules
   - DOMAIN-SUFFIX,aitonic.us.kg
