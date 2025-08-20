@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,dyxq.cc
   - DOMAIN-SUFFIX,boju.cc
   - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,openrouter.ai
 
   # IP-CIDR rules
   - IP-CIDR,8.8.8.8/32,no-resolve
