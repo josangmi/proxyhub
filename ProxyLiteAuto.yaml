@@ -29,7 +29,7 @@ payload:
   - DOMAIN-SUFFIX,bypassai.ai
   - DOMAIN-SUFFIX,pastebin.com
   - DOMAIN-SUFFIX,www.gitbook.io
-  - DOMAIN-SUFFIX,cloudflare.com
+  # - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,fiverr.com
   - DOMAIN-SUFFIX,theten.ai
