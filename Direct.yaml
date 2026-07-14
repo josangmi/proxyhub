@@ -1,24 +1,17 @@
 
 # 直连补充列表
-
 payload:
-
-  # DOMAIN-KEYWORD
-
-  - DOMAIN-KEYWORD,aitonic,DIRECT
-
-
-  # DOMAIN-SUFFIX rules
-  - DOMAIN-SUFFIX,aitonic.us.kg,DIRECT
-  - DOMAIN-SUFFIX,cloudflare-ech.com,DIRECT
-  - DOMAIN-SUFFIX,103402.xyz,DIRECT
-  - DOMAIN-SUFFIX,sharedchat.cc,DIRECT
-  - DOMAIN-SUFFIX,muyuan.do,DIRECT
-  - DOMAIN-SUFFIX,100xlabs.space,DIRECT
-  - DOMAIN-SUFFIX,hotaruapi.com,DIRECT
-  - DOMAIN-SUFFIX,new.xychatai.com,DIRECT
-  - DOMAIN-SUFFIX,flomoapp.com,DIRECT
-  - DOMAIN-SUFFIX,weyolo.com,DIRECT
-  - DOMAIN-SUFFIX,yas.i234.me,DIRECT
-  - DOMAIN-SUFFIX,ocbc.com,DIRECT
-  - DOMAIN-SUFFIX,chybenzun.top,DIRECT
+  - DOMAIN-KEYWORD,aitonic
+  - DOMAIN-SUFFIX,aitonic.us.kg
+  - DOMAIN-SUFFIX,cloudflare-ech.com
+  - DOMAIN-SUFFIX,103402.xyz
+  - DOMAIN-SUFFIX,sharedchat.cc
+  - DOMAIN-SUFFIX,muyuan.do
+  - DOMAIN-SUFFIX,100xlabs.space
+  - DOMAIN-SUFFIX,hotaruapi.com
+  - DOMAIN-SUFFIX,new.xychatai.com
+  - DOMAIN-SUFFIX,flomoapp.com
+  - DOMAIN-SUFFIX,weyolo.com
+  - DOMAIN-SUFFIX,yas.i234.me
+  - DOMAIN-SUFFIX,ocbc.com
+  - DOMAIN-SUFFIX,chybenzun.top
